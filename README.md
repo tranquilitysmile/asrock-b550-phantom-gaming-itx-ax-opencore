@@ -8,7 +8,7 @@ AMD Ryzen Hackintosh - Opencore EFI for Asrock b550 phantom gaming-itx/ax
 | ------------- | --------- |
 | CPU | AMD Ryzen 5 5600X @ 3.7GHz |
 | Motherboard | Asrock b550 phantom gaming-itx/ax |
-| RAM | 16GB (2 x 16GB) AMD Radeon R7 Performance Series DDR4-2933 |
+| RAM | 16GB Kingston FURY Renegade 3600 |
 | GPU | Asrock rx 6600 xt phantom gaming OC 8G  |
 | Ethernet | Intel® I225-V 2.5Gb |
 | WIFI+BT | WIFI 6 AX200 |

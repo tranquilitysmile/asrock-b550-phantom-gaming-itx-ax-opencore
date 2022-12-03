@@ -19,9 +19,9 @@ AMD Ryzen Hackintosh - Opencore EFI for Asrock b550 phantom gaming-itx/ax
 - For working Ethernet you need to use this patch for I225-V https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/blob/main/I225-V_FIX.md
 - This EFI use "Above 4g decoding" and "SAM" enabled in BIOS settings
 
-**macOS version**: 12.3.1
+**macOS version**: 12.3.1/13.1
 
-**OpenCore version**: 0.7.9
+**OpenCore version**: 0.7.9/0.8.2
 
 **SMBIOS**:  iMacPro1,1
 

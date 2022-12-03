@@ -1,6 +1,6 @@
-# Asrock B550 Phantom Gaming ITX/AX Monterey 12.3.1 Opencore Hackintosh
+# Asrock B550 Phantom Gaming ITX/AX (Monterey 12.3.1/Ventura 13.1) Opencore Hackintosh
 AMD Ryzen Hackintosh - Opencore EFI for Asrock b550 phantom gaming-itx/ax
-![Снимок экрана 2022-04-18 в 16 23 28](https://user-images.githubusercontent.com/79373600/163814486-b8b5f578-16f6-405b-bb9d-5257785a6883.png)
+![Снимок экрана 2022-12-03 в 17 37 41](https://user-images.githubusercontent.com/79373600/205446364-a89d0662-0346-4523-8e63-cd576eacd4f0.png)
 ![Снимок экрана 2022-04-18 в 16 33 06](https://user-images.githubusercontent.com/79373600/163815842-748b0373-d36a-4ceb-83ed-a0529e659e66.png)
 
 ## Specification
